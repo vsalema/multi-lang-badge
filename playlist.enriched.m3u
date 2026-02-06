@@ -412,8 +412,11 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Animation" tvg-name="Pinocchio par Guillermo del Toro (2022)" tmdb-id="555604" tvg-id="1_0qptcdwb" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_0qptcdwb/version/100051/width/800/height/450" tvg-certification="FR:TP" tvg-cast="Ewan McGregor|David Bradley|Gregory Mann|Burn Gorman|Ron Perlman" tvg-director="Mark Gustafson|Guillermo del Toro" tvg-writer="Guillermo del Toro|Patrick McHale" tvg-content-id="tmdb:555604" audio="fr,en" subs="fr",Pinocchio par Guillermo del Toro (2022)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_0qptcdwb/v/1/ev/11/flavorId/1_,pmo1j03c,7gczwx5d,y63xzfxx,swjyp6bx,5130ks67,b41zlcve,l99cycpl,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Animation" tvg-name="Sailor moon eternal the movie (2021)" tmdb-id="784500" tvg-id="1_kn8997ng" tvg-logo="https://image.tmdb.org/t/p/original/fy51VW2GYTfvGJfBLkCNobE3HeL.jpg" tvg-cast="Kotono Mitsuishi|Misato Fukuen|金元寿子|Rina Satō|Ami Koshimizu" tvg-director="今千秋|橋本アキラ|池田智美|吉田俊司" tvg-writer="筆安一幸" tvg-content-id="tmdb:784500" audio="fr,en" subs="fr",Sailor moon eternal the movie (2021)
-https://kalhlspd-a.akamaihd.net/s/dash/p/3470713/347071300/serveFlavor/entryId/1_kn8997ng/v/1/ev/6/flavorId/1_,pn9z966m,lx23ou6e,kn15ltv0,3vk0smel,1z0xtyq7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 group-title="Animation" tvg-name="Sailor moon eternal the movie (1) (2021)" tmdb-id="784500" tvg-id="1_kn8997ng" tvg-logo="https://image.tmdb.org/t/p/original/fy51VW2GYTfvGJfBLkCNobE3HeL.jpg" tvg-cast="Kotono Mitsuishi|Misato Fukuen|金元寿子|Rina Satō|Ami Koshimizu" tvg-director="今千秋|橋本アキラ|池田智美|吉田俊司" tvg-writer="筆安一幸" tvg-content-id="tmdb:784500" audio="fr,en" subs="fr",Sailor moon eternal the movie (2021)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_ptjjdles/v/1/ev/9/flavorId/1_,egsxbw5h,bwvmr5lg,fj8cyf3v,3mvqnm26,4d4a9jzq,eg7dyr0n,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 group-title="Animation" tvg-name="Sailor moon eternal the movie (2) (2021)" tmdb-id="784500" tvg-id="1_kn8997ng" tvg-logo="https://image.tmdb.org/t/p/original/fy51VW2GYTfvGJfBLkCNobE3HeL.jpg" tvg-cast="Kotono Mitsuishi|Misato Fukuen|金元寿子|Rina Satō|Ami Koshimizu" tvg-director="今千秋|橋本アキラ|池田智美|吉田俊司" tvg-writer="筆安一幸" tvg-content-id="tmdb:784500" audio="fr,en" subs="fr",Sailor moon eternal the movie (2021)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_b7jh05a6/v/1/ev/9/flavorId/1_,y7kgkzyv,keyqz3mr,e05bp9xk,clvscvsc,lntapb5j,047eu0tr,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Animation" tvg-name="Samouraï Academy (2022)" tmdb-id="366672" tvg-id="1_mkfkud5y" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_mkfkud5y/version/100061/width/800/height/450" tvg-certification="FR:U" tvg-cast="Michael Cera|Samuel L. Jackson|Ricky Gervais|Kylie Kuioka|Mel Brooks" tvg-director="Rob Minkoff|Chris Bailey|Mark Koetsier" tvg-writer="Ed Stone|Nate Hopper" tvg-content-id="tmdb:366672" audio="fr,en" subs="fr",Samouraï Academy (2022)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_mkfkud5y/v/1/ev/11/flavorId/1_,peysg6s7,2cm1yssv,tn6lxi2m,bfvgqk8l,79c8hi9o,w6whcq8j,u4moiiww,3aor7486,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -1271,6 +1274,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450" tvg-certification="FR:16" tvg-cast="Nicolas Cage|Ryan Kiera Armstrong|Noah Le Gros|Clint Howard|Shiloh Fernandez" tvg-director="Brett Donowho" tvg-writer="Carl W. Lucas" tvg-content-id="tmdb:872954" audio="fr,en" subs="fr",The Old Way (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
