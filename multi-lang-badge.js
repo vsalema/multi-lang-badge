@@ -1,8 +1,8 @@
 /* multi-lang-badge.js
-   - Badge 🇫🇷 si audio = fr uniquement
-   - Badge 🇫🇷🇬🇧 MULTI si audio ou subs ont >= 2 langues
+   - Badge "🇫🇷 français" si audio = fr uniquement
+   - Badge "🇫🇷🇬🇧 MULTI" si audio ou subs ont >= 2 langues
    - Appliqué à #channelList + vitrine (.showcase-card)
-   - Zéro réseau, très léger
+   - Vitrine: badge en haut-gauche
 */
 (() => {
   'use strict';
@@ -32,6 +32,7 @@
         -webkit-backdrop-filter:blur(6px);
       }
       .${BADGE_CLASS} .em{font-size:13px;line-height:1}
+      .${BADGE_CLASS} .tx{font-size:10px;line-height:1; opacity:.95}
 
       /* Vitrine: badge en haut-gauche */
       .showcase-card .poster{position:relative}
@@ -62,9 +63,9 @@
   function badgeHtml(kind){
     // kind: "FR" | "MULTI"
     if(kind === 'FR'){
-      return `<span class="em">🇫🇷</span>`;
+      return `<span class="em">🇫🇷</span><span class="tx">français</span>`;
     }
-    return `<span class="em">🇫🇷🇬🇧</span><span>MULTI</span>`;
+    return `<span class="em">🇫🇷🇬🇧</span><span class="tx">MULTI</span>`;
   }
 
   function ensureBadge(container, kind){
@@ -80,6 +81,12 @@
     container.appendChild(el);
   }
 
+  function clearBadge(container){
+    if(!container) return;
+    const existing = container.querySelector(`:scope > .${BADGE_CLASS}`);
+    if(existing) existing.remove();
+  }
+
   function applyToChannelItem(item){
     const audio = item.dataset.audio || '';
     const subs  = item.dataset.subs  || '';
@@ -87,21 +94,17 @@
     const row = item.querySelector('.channel-title-row');
     if(!row) return;
 
-    // priorité: FR only
     if(isFrenchOnly(audio)){
       ensureBadge(row, 'FR');
       return;
     }
 
-    // sinon MULTI si audio ou subs multi
     if(isMulti(audio) || isMulti(subs)){
       ensureBadge(row, 'MULTI');
       return;
     }
 
-    // sinon: rien
-    const existing = row.querySelector(`:scope > .${BADGE_CLASS}`);
-    if(existing) existing.remove();
+    clearBadge(row);
   }
 
   function applyToShowcase(card){
@@ -121,8 +124,7 @@
       return;
     }
 
-    const existing = poster.querySelector(`:scope > .${BADGE_CLASS}`);
-    if(existing) existing.remove();
+    clearBadge(poster);
   }
 
   function scan(){
@@ -134,7 +136,6 @@
     ensureStyle();
     scan();
 
-    // Observer léger: il suffit pour ré-appliquer si liste/vitrine re-render
     const mo = new MutationObserver(() => requestAnimationFrame(scan));
     mo.observe(document.body, { childList:true, subtree:true });
   }
