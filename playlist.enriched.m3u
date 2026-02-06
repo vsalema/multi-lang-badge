@@ -650,7 +650,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 # ===== Drame =====
 
-#EXTINF:-1 group-title="Drame" tvg-name="La Venue de l'avenir (2025)" tmdb-id="1235304" tvg-content-id="tmdb:1235304" tvg-id="1_1o3cixtw" tvg-logo="https://image.tmdb.org/t/p/original/dd0Spq7C2ZluVJrWVt3puMgS3fR.jpg" tvg-certification="FR:12" tvg-cast="Suzanne Lindon|Abraham Wapler|Vincent Macaigne|Julia Piaton|Zinedine Soualem" tvg-director="Cédric Klapisch" tvg-writer="Cédric Klapisch|Santiago Amigorena" audio="fr" subs="",La Venue de l'avenir (2025)
+#EXTINF:-1 group-title="Drame" tvg-name="La Venue de l'avenir (2025)" tmdb-id="1235304" tvg-content-id="tmdb:1235304" tvg-id="1_1o3cixtw" tvg-logo="https://image.tmdb.org/t/p/original/dd0Spq7C2ZluVJrWVt3puMgS3fR.jpg" tvg-certification="FR:12" tvg-cast="Suzanne Lindon|Abraham Wapler|Vincent Macaigne|Julia Piaton|Zinedine Soualem" tvg-director="Cédric Klapisch" tvg-writer="Cédric Klapisch|Santiago Amigorena" audio="hi,fr" subs="fr",La Venue de l'avenir (2025)
 https://kalhlspd-a.akamaihd.net/dash/3253003/sp/325300300/serveFlavor/entryId/1_1o3cixtw/v/1/ev/10/flavorId/1_,f84m5ouc,4bu3wect,tkfs340q,n002351q,opa730q5,puenks45,7t8xo2kq,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Drame" tvg-name="Hamnet (2025)" tmdb-id="858024" tvg-content-id="tmdb:858024" tvg-id="1_bswh3nb1" tvg-logo="https://image.tmdb.org/t/p/original/slwXcH3iTRUe9ywOa4teTSzAGeB.jpg" tvg-certification="FR:TP" tvg-cast="Jessie Buckley|Paul Mescal|Emily Watson|Joe Alwyn|Jacobi Jupe" tvg-director="Chloé Zhao" tvg-writer="Maggie O'Farrell|Chloé Zhao",Hamnet (2025)
@@ -1264,6 +1264,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450" tvg-certification="FR:16" tvg-cast="Nicolas Cage|Ryan Kiera Armstrong|Noah Le Gros|Clint Howard|Shiloh Fernandez" tvg-director="Brett Donowho" tvg-writer="Carl W. Lucas" tvg-content-id="tmdb:872954",The Old Way (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
