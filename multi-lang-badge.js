@@ -29,7 +29,7 @@
       .${BADGE_CLASS} .em{font-size:13px}
       .showcase-card .poster{position:relative}
       .showcase-card .poster > .${BADGE_CLASS}{
-        position:absolute;left:8px;bottom:8px;z-index:999
+        position:absolute;left:8px;top:40px;z-index:999
       }
     `;
     document.head.appendChild(st);
@@ -90,3 +90,4 @@
     ? document.addEventListener('DOMContentLoaded', boot)
     : boot();
 })();
+
