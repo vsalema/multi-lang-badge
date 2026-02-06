@@ -1032,7 +1032,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 # ===== Musique =====
 
-#EXTINF:-1 group-title="Musique" tvg-name="Sur un air de blues (2025)" tmdb-id="1371185" tvg-content-id="tmdb:1371185" tvg-id="1_s6mpz9yn" tvg-logo="https://image.tmdb.org/t/p/original/a37MBzhCanExpBxq1wzGRilRt49.jpg" tvg-cast="Hugh Jackman|Kate Hudson|Michael Imperioli|Fisher Stevens|Jim Belushi" tvg-director="Craig Brewer" tvg-writer="Craig Brewer|Greg Kohs",Sur un air de blues (2025)
+#EXTINF:-1 group-title="Musique" tvg-name="Sur un air de blues (2025)" tmdb-id="1371185" tvg-content-id="tmdb:1371185" tvg-id="1_s6mpz9yn" tvg-logo="https://image.tmdb.org/t/p/original/a37MBzhCanExpBxq1wzGRilRt49.jpg" tvg-cast="Hugh Jackman|Kate Hudson|Michael Imperioli|Fisher Stevens|Jim Belushi" tvg-director="Craig Brewer" tvg-writer="Craig Brewer|Greg Kohs" audio="hi,en" subs="fr,en",Sur un air de blues (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_s6mpz9yn/v/1/ev/10/flavorId/1_,4riulddd,ed3bi0yh,hzip8zye,i01jtfr1,xx93wnow,y349cqmi,l9f96chw,zbqedckn,ptykj49k,rch81s4m,9j4vp32b,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Musique" tvg-name="Enzo le Croco (2022)" tmdb-id="830784" tvg-id="1_oo3w1vu1" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_oo3w1vu1/version/100041/width/800/height/450" tvg-certification="FR:TP" tvg-cast="Shawn Mendes|Winslow Fegley|Javier Bardem|Constance Wu|Scoot McNairy" tvg-director="Will Speck|Josh Gordon" tvg-writer="William Davies" tvg-content-id="tmdb:830784",Enzo le Croco (2022) 
@@ -1264,6 +1264,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450" tvg-certification="FR:16" tvg-cast="Nicolas Cage|Ryan Kiera Armstrong|Noah Le Gros|Clint Howard|Shiloh Fernandez" tvg-director="Brett Donowho" tvg-writer="Carl W. Lucas" tvg-content-id="tmdb:872954",The Old Way (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
