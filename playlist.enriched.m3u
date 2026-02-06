@@ -977,6 +977,9 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 # ===== Horreur =====
 
+#EXTINF:-1 group-title="Horreur" tvg-name="Twisted" tmdb-id="1373198" tvg-content-id="tmdb:1373198" tvg-id="1_455ieval" tvg-logo="https://image.tmdb.org/t/p/original/hluMzOgA98EXRRyc7qcXW3UgkO5.jpg" tvg-cast="Djimon Hounsou, Lauren LaVera, Mia Healey, Neal McDonough, Alicia Witt" tvg-director="Darren Lynn Bousman" tvg-writer="Jonathan Bernstein, James Greer" audio="fr,en" subs="fr,en",Twisted
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_455ieval/v/1/ev/11/flavorId/1_,12kq1nv6,6e78jpyt,su7tdiwp,prhg59z9,qcfp1qbo,m0a5xo0l,tud6q19x,jt2rktnc,ecqkyw6k,2lftvinb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 #EXTINF:-1 group-title="Horreur" tvg-name="G.O.A.T. (2025)" tmdb-id="986097" tvg-id="1_iymlt45s" tvg-logo="https://image.tmdb.org/t/p/original/nTFrCDCc1pMJAwmUhPjtTHMnF6w.jpg" tvg-cast="Marlon Wayans|Tyriq Withers|Julia Fox|Tim Heidecker|Jim Jefferies" tvg-director="Justin Tipping" tvg-writer="Zack Akers|Skip Bronkie|Justin Tipping" tvg-content-id="tmdb:986097" audio="fr,en" subs="fr",G.O.A.T. (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_iymlt45s/v/1/ev/11/flavorId/1_,twddygmy,cl9x2ely,p6bsg7ai,m4u3o9xv,miepl7z8,os1xz1jw,f7rt81jq,w9l7vrbq,1dmrha49,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -1274,6 +1277,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450" tvg-certification="FR:16" tvg-cast="Nicolas Cage|Ryan Kiera Armstrong|Noah Le Gros|Clint Howard|Shiloh Fernandez" tvg-director="Brett Donowho" tvg-writer="Carl W. Lucas" tvg-content-id="tmdb:872954" audio="fr,en" subs="fr",The Old Way (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
