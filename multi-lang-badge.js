@@ -37,7 +37,7 @@
       /* Vitrine: badge en haut-gauche */
       .showcase-card .poster{position:relative}
       .showcase-card .poster > .${BADGE_CLASS}{
-        position:absolute; left:8px; top:8px; z-index:999;
+        position:absolute; left:30px; top:105px; z-index:999;
       }
     `;
     document.head.appendChild(st);
@@ -144,3 +144,4 @@
     ? document.addEventListener('DOMContentLoaded', boot, { once:true })
     : boot();
 })();
+
